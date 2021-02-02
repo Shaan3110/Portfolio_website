@@ -1,0 +1,48 @@
+/* The navbar section*/
+.navbar li a
+{
+    color: white !important;
+    font-family: 'Exo 2', sans-serif;
+}
+.navbar
+{
+    background-color: #007CC7 !important;
+}
+.container-fluid
+{
+    font-family: 'Dancing Script', cursive;
+}
+.navbar-brand
+{
+    font-size: 35px;
+}
+.navbar-brand:hover
+{
+    font-size: 35px;
+}
+.navbar li a:hover
+{
+    text-decoration: underline;
+}
+/* section */
+.dropping
+{
+    display: flex;
+    flex-direction: row;
+}
+.dropping-image
+{
+    height: auto;
+}
+.dropping-text
+{
+    font-weight: 70px !important;
+    margin-left: 50px;
+    font-size: 40px;
+    font-family: 'Dancing Script', cursive;
+    color: #007CC7;
+}
+.dropping-text strong
+{
+    color: black;
+}
