@@ -58,13 +58,13 @@
 .my-image
 {
     width: 50%;
+    display: flex !important;
 }
 .my-image img
 {
     border-radius: 239px;
-    display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: center !important;
 }
 .me p
 {
@@ -74,6 +74,12 @@
     align-items: center;
     height: 100%;
     margin-left: 30px;
+    font-size: 30px;
+}
+.me
+{
+    margin-top: 30px;
+    width: 50%;
 }
 .me p strong
 {
