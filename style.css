@@ -57,18 +57,20 @@
 }
 .my-image
 {
-    width: 40%;
+    width: 50%;
 }
 .my-image img
 {
     border-radius: 239px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .me p
 {
     color: #007CC7;
     font-family: 'Dancing Script', cursive;
     justify-content: flex-end;
-    width: 40%;
     align-items: center;
     height: 100%;
     margin-left: 30px;
