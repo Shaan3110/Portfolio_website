@@ -192,6 +192,9 @@
     background-color: #007CC7 ;
     box-shadow: none;
 }
+.languages h3{
+    font-size: large;
+}
 .position-header
 {
     display: flex;
@@ -306,6 +309,8 @@ footer button
     .dropping
     {
         flex-direction: column;
+        justify-content: center;
+        align-items: center;
     }
     .section1
     {
@@ -320,7 +325,9 @@ footer button
     .dropping-text
     {
         margin: 104px 5px;
-        width: 100%;
+        width: 70%;
+        /* display: flex;
+        flex-direction: column; */
     }
     .position1{
         width: 100%;
