@@ -148,6 +148,12 @@
     height: 56px;
     color: white;
 }
+.internships-header
+{
+    font-family: 'Exo 2', sans-serif;
+    display: flex;
+    justify-content: center;
+}
 /*media queries*/
 @media only screen and (max-width:750px)
 {
