@@ -283,6 +283,7 @@ footer button
 
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-evenly;
 }
 #linkedin
 {
