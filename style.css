@@ -47,7 +47,7 @@
 .dropping-text
 {
     font-weight: 70px !important;
-    margin-left: 50px;
+    margin: 160px 50px ;
     font-size: 40px;
     font-family: 'Dancing Script', cursive;
     color: #007CC7;
@@ -108,7 +108,7 @@
 }
 .typed
 {
-    transform: translate(-50%,-50%);
+    /* transform: translate(-50%,-50%); */
     color: black;
 }
 .projects
@@ -179,6 +179,11 @@
     }
     .me
     {
+        width: 100%;
+    }
+    .dropping-text
+    {
+        margin: 104px 5px;
         width: 100%;
     }
 }
