@@ -153,6 +153,16 @@
     font-family: 'Exo 2', sans-serif;
     display: flex;
     justify-content: center;
+    margin: 30px 30px;
+}
+#intern1 img
+{
+    height: 243px !important;
+}
+#intern1
+{
+    display: flex;
+    justify-content: center;
 }
 /*media queries*/
 @media only screen and (max-width:750px)
