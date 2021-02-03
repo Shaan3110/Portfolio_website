@@ -238,6 +238,16 @@
     margin: 10px;
     font-family: 'Exo 2', sans-serif;
 }
+footer
+{
+    display: flex;
+    justify-content: center;
+}
+.contact-me-header
+{
+    font-family: 'Exo 2', sans-serif;
+    margin: 30px 30px;
+}
 /*media queries*/
 @media only screen and (max-width:750px)
 {
@@ -258,6 +268,9 @@
     .dropping-text
     {
         margin: 104px 5px;
+        width: 100%;
+    }
+    .position1{
         width: 100%;
     }
 }
